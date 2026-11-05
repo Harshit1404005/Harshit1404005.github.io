@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[locale]","\u002F[locale]\u002Fbiodata","\u002F[locale]\u002Fguests","\u002F[locale]\u002Finvitations","\u002F[locale]\u002Finvite"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
