@@ -2,4 +2,4 @@
 :HL["/fonts/kannada/noto-sans-kannada-kannada-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"kn","s":["script-test"]},"h":32,"c":"$Q2"}]]
-0:{"b":"34lrB8f_KWG309EiQBXBw","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"CKS2r2kPyBNXsvcC7y67E","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
